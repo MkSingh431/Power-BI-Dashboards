@@ -62,6 +62,36 @@ Welcome to my collection of Power BI dashboards! This repository showcases vario
 - 
 - **Description**: A comprehensive dashboard analyzing sales data from various supermarkets.
 
+## Food Nutrients Analysis
+**Files**:[Food Nutrients Analysis by Motilal Das.pbix](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Food%20Nutrients%20Analysis/FOOD%20NUTRIENTS%20ANALYSIS%20-%20POWER%20BI%20DASHBOARD%20BY%20Motilal%20Das.pbix)
+
+## Future Tweet Sentiment Analysis
+**Files**:[Future Tweet Sentiment Analysis by Motilal Das.pbix](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Future%20Tweet%20Sentiment%20Analysis/FUTURE%20TWEETS%20ANALYSIS%20DASHBOARD.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Future%20Tweet%20Sentiment%20Analysis/FUTURE%20TWEETS%20ANALYSIS%20DASHBOARD%2005_05_2024%2012_51_01%20AM.png)
+
+## A SN Corp Europe Business Sales Analysis
+**Files**:[A SN Corp Europe Business Sales Analysis by Motilal Das.pbix](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/A%20SN%20Corp%20Europe%20Business%20Sales%20Analysis/SN%20CORP%20EUROPE%20BUSINESS%20SALES%20ANALYSIS.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/A%20SN%20Corp%20Europe%20Business%20Sales%20Analysis/SN%20CORP%20EUROPE%20BUSIESS%20SALE%20ANALYSIS.mp4)
+
+## Bank Loan Insights
+**Files**:[Bank Loan Insights](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Bank%20Loan%20Insights/powerBI/bank_loan_data_insights.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Bank%20Loan%20Insights/assets/overview.jpg)
+
+## Crypto Market Trends
+**Files**:[Crypto Market Trends by Motilal Das.pbix](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Crypto%20Market%20Trends/CryptoCurrency_Dashboard.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Crypto%20Market%20Trends/Dashboard_Snapshot.png)
+
+## Global Universities' Success Analysis
+**Files**:[Global Universities' Success Analysis by Motilal Das](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Global%20Universities'%20Success%20Analysis/powerBI/Global_Univ_Analysis.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/Global%20Universities'%20Success%20Analysis/assets/overview.jpg)
+
+## HR Workforce Analysis
+**Files**:[HR Workforce Analysis by Motilal Das](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/HR%20Workforce%20Analysis/analysis/HR_Insights_%26_Trends.pbix)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/HR%20Workforce%20Analysis/assets/dashboard.png)
+
+##
+
+
 ## Contact
 Feel free to reach out if you have any questions or if you'd like to collaborate
 
